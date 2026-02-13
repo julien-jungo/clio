@@ -4,6 +4,8 @@ A terminal-based coding assistant built in Go.
 
 Clio provides an interactive chat UI in your terminal, backed by an LLM with tool use. It can read and write files and run shell commands to help you with coding tasks.
 
+<img src="assets/screenshot.png" alt="screenshot" width="600">
+
 ## Setup
 
 ```sh
