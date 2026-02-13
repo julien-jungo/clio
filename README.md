@@ -1,6 +1,6 @@
 # clio
 
-A terminal-based coding assistant built in Go, backed by an LLM with tool use. It can read files, write files, and run shell commands to help you with coding tasks.
+A terminal-based coding assistant built in Go. Clio provides an interactive chat UI right in your terminal, backed by an LLM with tool use via OpenRouter. It can read and write files, execute shell commands, and iterate on code — acting as a pair programmer that lives in your terminal.
 
 <img src="assets/screenshot.png" alt="screenshot" width="600">
 
